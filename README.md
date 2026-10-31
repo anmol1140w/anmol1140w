@@ -1,24 +1,91 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>- Self-Supervised Learning using Masked Autoencoders (MAE)<br>- Space Weather Forecasting for ISRO using Deep Learning<br>- Vision Transformers and Remote Sensing projects with PyTorch<br><br>👯 I’m looking to collaborate on<br>- Computer Vision<br>- Remote Sensing & Geospatial AI<br>- Deep Learning Research<br>- Open Source AI Projects<br><br>🤝 I’m looking for help with<br>- Vision Transformer optimization<br>- Self-Supervised Learning<br>- Research paper implementation<br>- MLOps & scalable model deployment<br><br>🌱 I’m currently learning<br>- Masked Autoencoders (MAE)<br>- Vision Transformers (ViTs)<br>- Diffusion Models<br>- MLOps & System Design for AI<br><br>💬 Ask me about<br>- Python<br>- PyTorch<br>- Computer Vision<br>- Machine Learning<br>- Deep Learning<br>- Data Structures & Algorithms<br><br>⚡ Fun fact<br>I enjoy implementing research papers from scratch more than using pre-built libraries.
+<div align="center">
 
+# 👋 Hey there, I'm Anmol Srivastava
+### AI & Deep Learning Researcher · Systems & Agentic Architect
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/anmol1140w.bsky.social) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/anmolsrivastava22) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anmol1140w) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anmol-srivastava-1140w) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anmol1140w) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dragzw1@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anmol-srivastava-1140w)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/anmol1140w)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/anmol1140w.bsky.social)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dragzw1@gmail.com)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://behance.net/anmolsrivastava22)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=anmol1140w&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=anmol1140w&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=anmol1140w&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anmol1140w&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+> *“I enjoy implementing cutting-edge research papers from scratch more than using off-the-shelf black boxes.”*
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=anmol1140w&icon=2&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔬 What I'm Focused On
+
+- 🔭 **Self-Supervised Representation Learning:** Implementing Masked Autoencoders (MAE) and Vision Transformers (ViTs) from scratch with PyTorch.
+- 🛰️ **Geospatial & Space AI:** Space Weather Forecasting and satellite imagery feature extraction using deep neural architectures.
+- ⚡ **Agentic AI & Systems:** Engineering sovereign, deterministic multi-agent workbenches and high-performance system tooling.
+- 🩺 **Medical Imaging & Diffusion Models:** Reproducing and adapting dual-branch conditional diffusion models (DiffMIC-v2) for clinical diagnostics.
+
+---
+
+### 🚀 Featured Open Source Work
+
+| Project | Highlights | Tech Stack |
+| :--- | :--- | :--- |
+| **[mae-remote-sensing](https://github.com/anmol1140w/mae-remote-sensing)** | PyTorch implementation of Masked Autoencoders (MAE) for self-supervised representation learning on multi-spectral satellite imagery. | `PyTorch` `ViT` `MAE` `Computer Vision` |
+| **[DiffMICv2_APTOS2019](https://github.com/anmol1140w/DiffMICv2_APTOS2019)** | Dual-branch conditional diffusion model adapted for diabetic retinopathy grading and medical classification on APTOS2019. | `PyTorch` `Diffusion Models` `EfficientSAM` |
+| **[agentic-aegis](https://github.com/anmol1140w/agentic-aegis)** | Sovereign local-first multi-agent workbench providing routing, state-machine execution, and sandbox verification. | `Python` `Multi-Agent` `System Design` |
+| **[Cairn — Knowledge Graph](https://github.com/anmol1140w/Cairn--Public-Knowledge-Graph)** | Public Knowledge Graph search engine tracing facts across research papers, news, and patents with source attribution. | `TypeScript` `Knowledge Graph` `Search` |
+| **[SpeedyTech](https://github.com/anmol1140w/SpeedyTech)** | Google Solution Challenge 2026 entry — smart volunteer coordination and real-time resource allocation platform. | `Python` `Fullstack` `Resource Allocation` |
+| **[vyom_compilers](https://github.com/anmol1140w/vyom_compilers)** | Local-first invoice document intelligence and deterministic data extraction engine backed by SQLite. | `Python` `Document AI` `SQLite` |
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+<div align="left">
+
+**Deep Learning & Vision**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+**Languages & Systems**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Backend, Data & Cloud**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anmol1140w&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol1140w&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=anmol1140w&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Open to collaborations in Deep Learning research, Computer Vision, and AI Systems. Feel free to reach out!</sub>
+</div>
