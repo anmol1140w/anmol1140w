@@ -73,19 +73,43 @@
 
 ---
 
+
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anmol1140w&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol1140w&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=anmol1140w&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="165"
+    alt="GitHub Stats"
+  />
+
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol1140w&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="Top Languages"
+  />
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=anmol1140w&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+
+  <!-- GitHub Streak -->
+  <img
+    src="https://streak-stats.demolab.com/?user=anmol1140w&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
+
 </div>
 
 ---
 
 <div align="center">
-  <sub>Open to collaborations in Deep Learning research, Computer Vision, and AI Systems. Feel free to reach out!</sub>
+  <sub>
+    Open to collaborations in Deep Learning Research,
+    Computer Vision, and AI Systems.
+  </sub>
 </div>
+
