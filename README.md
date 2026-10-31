@@ -74,20 +74,19 @@
 ---
 
 
+
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
 
-  <!-- GitHub Stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=anmol1140w&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-stats-extended.vercel.app/api?username=anmol1140w&show_icons=true&theme=tokyonight&hide_border=true"
     height="165"
     alt="GitHub Stats"
   />
 
-  <!-- Top Languages -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol1140w&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=anmol1140w&layout=compact&theme=tokyonight&hide_border=true"
     height="165"
     alt="Top Languages"
   />
@@ -96,7 +95,6 @@
 
 <div align="center">
 
-  <!-- GitHub Streak -->
   <img
     src="https://streak-stats.demolab.com/?user=anmol1140w&theme=tokyonight&hide_border=true"
     alt="GitHub Streak Stats"
@@ -112,4 +110,3 @@
     Computer Vision, and AI Systems.
   </sub>
 </div>
-
